@@ -75,7 +75,7 @@ body {
 .card.is-active .card-jobtitle {
   bottom: 16px;
   letter-spacing: 1px;
-  font-size: 7px;
+  font-size: 5px;
 }
 
 .card-header {
