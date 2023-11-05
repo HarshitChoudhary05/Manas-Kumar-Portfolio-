@@ -19,6 +19,10 @@ body {
   margin-top: 4%;
 }
 
+.card::-webkit-scrollbar {
+  display: none;
+}
+
 .card {
   max-width: 340px;
   margin: auto;
